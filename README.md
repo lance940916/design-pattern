@@ -1,5 +1,5 @@
-[![Build Status](https://www.travis-ci.com/lance940916/design-pattern.svg?branch=master)](https://www.travis-ci.com/lance940916/design-pattern)
-![GitHub](https://img.shields.io/github/license/lance940916/design-pattern)
+[![Build Status](https://www.travis-ci.com/wu0916/design-pattern.svg?branch=master)](https://www.travis-ci.com/wu0916/design-pattern)
+![GitHub](https://img.shields.io/github/license/wu0916/design-pattern)
 
 # design-pattern
 
